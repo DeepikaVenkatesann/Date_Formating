@@ -7,4 +7,4 @@ def givendate(DateFormat):
  
 
 DateFormat=input("Enter The Date :")
-print(givendate(DateFormat)
+print(givendate(DateFormat))
